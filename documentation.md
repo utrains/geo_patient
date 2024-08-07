@@ -20,8 +20,7 @@ The steps of our configuration are :
 10. Sending helm packages to Jfrog
 11. Configure Kubernetes for deployment
 
-![alt text](image(1).png)
-
+![alt text](image.png)
 # Description of the process to configure infra
 ## Step 1: Set-up plugin
 
